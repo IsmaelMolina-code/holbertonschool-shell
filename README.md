@@ -1,0 +1,1 @@
+This repository is made to start learning the basics of shell scripting

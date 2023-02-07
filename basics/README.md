@@ -1,0 +1,1 @@
+The file 0-current_working_directory is here to, at the moment when it is executed, give you the position of the directory where you are working.
