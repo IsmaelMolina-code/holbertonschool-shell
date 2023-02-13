@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -ln /iacta
+grep -ln 3 /iacta
